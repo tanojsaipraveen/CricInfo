@@ -1,8 +1,10 @@
 # CricInfo Windows In Notification
 live cricket score in windows notification
 
-requirements 
+**requirements **
+
 pip install notify-py
+
 pip install requests
 
 
