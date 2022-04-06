@@ -1,4 +1,4 @@
-# CricInfo Windows In Notification
+# Cricket Score In Windows Notification
 live cricket score in windows notification
 
 **requirements **
